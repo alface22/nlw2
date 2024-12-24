@@ -11,7 +11,7 @@
 # Descrição
 
 Projeto Fullstack de criação e pesquisa de cursos e aulas online. Na plataforma você pode criar e divulgar suas aulas
-ou você pode pesquisar por aulas do seu interesse.
+ou pode pesquisar por aulas do seu interesse.
 
 # Como Rodar o Projeto
 
